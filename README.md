@@ -10,7 +10,7 @@ Youtube is an American video streaming platform that serves as a key source of n
 - Do various tags have an effect on viewership and lead to higher view counts?
   - (add answer)
 - Do popular trending videos in a particular category lead to an overall increase in viewership in the same category?
-  - (add answer)
+  - there was not a direct correlation between an increase in views in a category after a popular video was released, however different categories do experience more of a change in views than others
 - What features cause an increase in viewership count for a trending video? (number of likes and dislikes, comment count, video title length, video description length, etc)
   - (add answer)
 - What are common visual features in trending video thumbnails? What is the prevalence of faces in the thumbnail images? What clusters of thumbnails exist? 

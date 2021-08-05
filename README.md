@@ -26,7 +26,7 @@ Overall this analysis is directly invaluable to two main groups, creators wantin
 - (insert Google Drive mp4 link)
 
 ### Link to your final project paper
-- (insert Github pdf link)
+- https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502/blob/main/Final%20Report_%20Group03_YouTubeAnalysis_Part4.pdf
 
 ### Extra credit visualization
 - https://mrdvgroupprojectcspb4502.github.io/

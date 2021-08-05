@@ -10,7 +10,7 @@ Youtube is an American video streaming platform that serves as a key source of n
 ### Summary of Questions and Answers
 
 - Do various tags have an effect on viewership and lead to higher view counts?
-  - (add answer)
+  -  Tags have a weak correlation or are not correlated at all to video view count totals.
 - Do popular trending videos in a particular category lead to an overall increase in viewership in the same category?
   - there was not a direct correlation between an increase in views in a category after a popular video was released, however different categories do experience more of a change in views than others
 - What features cause an increase in viewership count for a trending video? (number of likes and dislikes, comment count, video title length, video description length, etc)

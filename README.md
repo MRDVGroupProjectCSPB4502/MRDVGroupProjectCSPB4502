@@ -1,6 +1,8 @@
 # Youtube Trending Videos Analysis
 Team Members: Daniel Shackelford, Vidya Giri, Rouzbeh Salehi Pour, Michael Taylor
 
+***warning, data set size is too large to be hosted on github. Original data set can be found at: https://www.kaggle.com/rsrishav/youtube-trending-video-dataset***
+
 ### Description
 
 Youtube is an American video streaming platform that serves as a key source of news, entertainment, and reference in the digital age: allowing all ranges of global users to broadcast their videos to the world and view videos that are relevant to their interests. Variety magazine states that in order, “to compile its trending-video rankings, YouTube uses a proprietary algorithm that factors in total views, likes, comments and searches.” This project intends to identify what determines the performance of a trending YouTube video through the analysis of string, numeric, and visual data.

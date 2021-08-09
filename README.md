@@ -15,22 +15,21 @@ Youtube is an American video streaming platform that serves as a key source of n
   - there was not a direct correlation between an increase in views in a category after a popular video was released, however different categories do experience more of a change in views than others
 - What features cause an increase in viewership count for a trending video? (number of likes and dislikes, comment count, video title length, video description length, etc)
   - The feature importance scores from the random forest model (88% f1-score) showed that likes, comment count, and dislikes were the most important features when predicting video view count and therefore could be the most contributing factors for an increase in viewership.
-- What are common visual features in trending video thumbnails? What is the prevalence of faces in the thumbnail images? What clusters of thumbnails exist? 
-  - We were able to detect significant visual features in Youtube thumbnails with facial and object detection models and subsequently created 20 defined clusters. From our analysis we have determined that 63.8% of the trending videos in the US contained a detectable face in the thumbnail. 
+- What are common visual features in trending video thumbnails? What is the prevalence of faces in the thumbnail images? What clusters of thumbnails exist?
+  - We were able to detect significant visual features in Youtube thumbnails with facial and object detection models and subsequently created 20 defined clusters. From our analysis we have determined that 63.8% of the trending videos in the US contained a detectable face in the thumbnail.
 
 ### Application of this knowledge
 
-Overall this analysis is directly invaluable to two main groups, creators wanting to grow their viewer base, and YouTube’s engineers wishing to increase user engagement. Creators can use this information to understand what factors into video success and what they can do to improve their viewers' engagement in their content. YouTube can use this information not only to better their creators, but can also use it to determine server loads and site use, as well as determine which categories of videos are most important to their user base and which categories possibly need more support from the platform. Looking further out, this data can be used in the design of other social media systems and in analyzing population response to things like news and its effect on society. 
+Overall this analysis is directly invaluable to two main groups, creators wanting to grow their viewer base, and YouTube’s engineers wishing to increase user engagement. Creators can use this information to understand what factors into video success and what they can do to improve their viewers' engagement in their content. YouTube can use this information not only to better their creators, but can also use it to determine server loads and site use, as well as determine which categories of videos are most important to their user base and which categories possibly need more support from the platform. Looking further out, this data can be used in the design of other social media systems and in analyzing population response to things like news and its effect on society.
 
 ### Video demonstration
 - https://drive.google.com/file/d/1ClNJgKI1wNAv1glFeDXchZmPjMTpV6Gh/view?usp=sharing
 
 ### Link to your final project paper
-- https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502/blob/main/Final%20Report_%20Group03_YouTubeAnalysis_Part4.pdf
+- https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502/blob/main/Group03_YouTubeAnalysis_Part4.pdf
 
 ### Extra credit visualization
 - https://mrdvgroupprojectcspb4502.github.io/
 
 ### Github Location:
 - https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502
-

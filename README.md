@@ -14,7 +14,7 @@ Youtube is an American video streaming platform that serves as a key source of n
 - Do popular trending videos in a particular category lead to an overall increase in viewership in the same category?
   - there was not a direct correlation between an increase in views in a category after a popular video was released, however different categories do experience more of a change in views than others
 - What features cause an increase in viewership count for a trending video? (number of likes and dislikes, comment count, video title length, video description length, etc)
-  - (add answer)
+  - The feature importance scores from the random forest model (88% f1-score) showed that likes, comment count, and dislikes were the most important features when predicting video view count and therefore could be the most contributing factors for an increase in viewership.
 - What are common visual features in trending video thumbnails? What is the prevalence of faces in the thumbnail images? What clusters of thumbnails exist? 
   - We were able to detect significant visual features in Youtube thumbnails with facial and object detection models and subsequently created 20 defined clusters. From our analysis we have determined that 63.8% of the trending videos in the US contained a detectable face in the thumbnail. 
 

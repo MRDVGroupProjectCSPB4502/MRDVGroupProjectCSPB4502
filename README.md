@@ -26,10 +26,10 @@ Overall this analysis is directly invaluable to two main groups, creators wantin
 - https://drive.google.com/file/d/1ClNJgKI1wNAv1glFeDXchZmPjMTpV6Gh/view?usp=sharing
 
 ### Link to your final project paper
-- https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502/blob/main/Group03_YouTubeAnalysis_Part4.pdf
+- https://github.com/YoutubeTrendingAnalysis/YoutubeTrendingAnalysis/blob/main/Group03_YouTubeAnalysis_Part4.pdf
 
 ### Extra credit visualization
-- https://mrdvgroupprojectcspb4502.github.io/
+- https://youtubetrendinganalysis.github.io/
 
 ### Github Location:
-- https://github.com/MRDVGroupProjectCSPB4502/MRDVGroupProjectCSPB4502
+- https://github.com/YoutubeTrendingAnalysis/YoutubeTrendingAnalysis

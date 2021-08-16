@@ -1,5 +1,5 @@
 # Youtube Trending Videos Analysis
-Team Members: Daniel Shackelford, Vidya Giri, Rouzbeh Salehi Pour, Michael Taylor
+Team Members: Daniel, Vidya, Rouzbeh, Michael
 
 ***WARNING, data set size is too large to be hosted on github. Original data set can be found at: https://www.kaggle.com/rsrishav/youtube-trending-video-dataset***
 
